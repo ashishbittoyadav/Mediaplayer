@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MediaplayerSimulator</string>
+    <string name="song_name">Song name</string>
+    <string name="load_songs">Load songs</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+</resources>
